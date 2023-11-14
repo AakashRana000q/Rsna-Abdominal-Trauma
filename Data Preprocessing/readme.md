@@ -1,1 +1,1 @@
-This folder all the code for data preprocessing stage.
+This folder contains all the code for data preprocessing stage.
